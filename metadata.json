@@ -1,0 +1,5 @@
+{
+  "name": "Nejjo Mullo - Connecting Farmers & Investors",
+  "description": "A professional agri-fintech platform connecting farmers with investors through technology, featuring project tracking, investment opportunities, and agricultural products.",
+  "requestFramePermissions": ["geolocation"]
+}

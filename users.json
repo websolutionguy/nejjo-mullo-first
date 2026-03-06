@@ -1,0 +1,107 @@
+[
+  {
+    "id": "admin-1",
+    "name": "System Admin",
+    "email": "admin@gmail.com",
+    "password": "pass12345",
+    "role": "ADMIN"
+  },
+  {
+    "id": "investor-1",
+    "name": "John Investor",
+    "email": "investor@gmail.com",
+    "password": "pass12345",
+    "role": "INVESTOR"
+  },
+  {
+    "id": "farmer-1",
+    "name": "Rahim Farmer",
+    "email": "farmer@gmail.com",
+    "password": "pass12345",
+    "role": "FARMER"
+  },
+  {
+    "id": "retailer-1",
+    "name": "City Supermarket",
+    "email": "retailer@gmail.com",
+    "password": "pass12345",
+    "role": "RETAILER"
+  },
+  {
+    "id": "consumer-1",
+    "name": "Abir Consumer",
+    "email": "consumer@gmail.com",
+    "password": "pass12345",
+    "role": "CONSUMER"
+  },
+  {
+    "id": "farmer-2",
+    "name": "Farmer Two",
+    "email": "farmer2@gmail.com",
+    "password": "pass12345",
+    "role": "FARMER"
+  },
+  {
+    "id": "farmer-3",
+    "name": "Farmer Three",
+    "email": "farmer3@gmail.com",
+    "password": "pass12345",
+    "role": "FARMER"
+  },
+  {
+    "id": "farmer-4",
+    "name": "Farmer Four",
+    "email": "farmer4@gmail.com",
+    "password": "pass12345",
+    "role": "FARMER"
+  },
+  {
+    "id": "farmer-5",
+    "name": "Farmer Five",
+    "email": "farmer5@gmail.com",
+    "password": "pass12345",
+    "role": "FARMER"
+  },
+  {
+    "id": "farmer-6",
+    "name": "Farmer Six",
+    "email": "farmer6@gmail.com",
+    "password": "pass12345",
+    "role": "FARMER"
+  },
+  {
+    "id": "farmer-7",
+    "name": "Farmer Seven",
+    "email": "farmer7@gmail.com",
+    "password": "pass12345",
+    "role": "FARMER"
+  },
+  {
+    "id": "farmer-8",
+    "name": "Farmer Eight",
+    "email": "farmer8@gmail.com",
+    "password": "pass12345",
+    "role": "FARMER"
+  },
+  {
+    "id": "farmer-9",
+    "name": "Farmer Nine",
+    "email": "farmer9@gmail.com",
+    "password": "pass12345",
+    "role": "FARMER"
+  },
+  {
+    "id": "farmer-10",
+    "name": "Farmer Ten",
+    "email": "farmer10@gmail.com",
+    "password": "pass12345",
+    "role": "FARMER"
+  },
+  {
+    "id": "farmer-11",
+    "name": "Farmer Eleven",
+    "email": "farmer11@gmail.com",
+    "password": "pass12345",
+    "role": "FARMER"
+  }
+]

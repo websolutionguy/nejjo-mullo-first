@@ -1,0 +1,324 @@
+[
+  {
+    "id": "1",
+    "name": "Seeds",
+    "slug": "seeds",
+    "image": "https://images.unsplash.com/photo-1508061110522-9ee0a799e290?q=80&w=1738&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "parentId": null
+  },
+  {
+    "id": "2",
+    "name": "Paddy/Rice Seeds",
+    "slug": "paddy-rice-seeds",
+    "image": "https://picsum.photos/seed/paddy/400/400",
+    "parentId": "1"
+  },
+  {
+    "id": "3",
+    "name": "Vegetable Seeds",
+    "slug": "vegetable-seeds",
+    "image": "https://picsum.photos/seed/vegetable/400/400",
+    "parentId": "1"
+  },
+  {
+    "id": "4",
+    "name": "Potato Seeds",
+    "slug": "potato-seeds",
+    "image": "https://picsum.photos/seed/potato/400/400",
+    "parentId": "1"
+  },
+  {
+    "id": "5",
+    "name": "Maize/Corn Seeds",
+    "slug": "maize-corn-seeds",
+    "image": "https://picsum.photos/seed/maize/400/400",
+    "parentId": "1"
+  },
+  {
+    "id": "6",
+    "name": "Chilli Seeds",
+    "slug": "chilli-seeds",
+    "image": "https://picsum.photos/seed/chilli/400/400",
+    "parentId": "1"
+  },
+  {
+    "id": "7",
+    "name": "Bitter Gourd Seeds",
+    "slug": "bitter-gourd-seeds",
+    "image": "https://picsum.photos/seed/bittergourd/400/400",
+    "parentId": "1"
+  },
+  {
+    "id": "8",
+    "name": "Bottle Gourd Seeds",
+    "slug": "bottle-gourd-seeds",
+    "image": "https://picsum.photos/seed/bottlegourd/400/400",
+    "parentId": "1"
+  },
+  {
+    "id": "9",
+    "name": "Cucumber Seeds",
+    "slug": "cucumber-seeds",
+    "image": "https://picsum.photos/seed/cucumber/400/400",
+    "parentId": "1"
+  },
+  {
+    "id": "10",
+    "name": "Okra (Ladyfinger) Seeds",
+    "slug": "okra-ladyfinger-seeds",
+    "image": "https://picsum.photos/seed/okra/400/400",
+    "parentId": "1"
+  },
+  {
+    "id": "11",
+    "name": "Others",
+    "slug": "others-seeds",
+    "image": "https://picsum.photos/seed/others/400/400",
+    "parentId": "1"
+  },
+  {
+    "id": "12",
+    "name": "Micronutrients / Fertilizers",
+    "slug": "micronutrients-fertilizers",
+    "image": "https://plus.unsplash.com/premium_photo-1664297276585-84cbe1aaad9a?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "parentId": null
+  },
+  {
+    "id": "13",
+    "name": "Micronutrients",
+    "slug": "micronutrients",
+    "image": "https://picsum.photos/seed/micro/400/400",
+    "parentId": "12"
+  },
+  {
+    "id": "14",
+    "name": "Plant Growth Regulator",
+    "slug": "plant-growth-regulator",
+    "image": "https://picsum.photos/seed/pgr/400/400",
+    "parentId": "12"
+  },
+  {
+    "id": "15",
+    "name": "Organic Fertilizer",
+    "slug": "organic-fertilizer",
+    "image": "https://picsum.photos/seed/organic/400/400",
+    "parentId": "12"
+  },
+  {
+    "id": "16",
+    "name": "Pesticides",
+    "slug": "pesticides",
+    "image": "https://plus.unsplash.com/premium_photo-1661942064041-a15c0c93d2a5?q=80&w=1803&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "parentId": null
+  },
+  {
+    "id": "17",
+    "name": "Insecticide",
+    "slug": "insecticide",
+    "image": "https://picsum.photos/seed/insecticide/400/400",
+    "parentId": "16"
+  },
+  {
+    "id": "18",
+    "name": "Fungicide",
+    "slug": "fungicide",
+    "image": "https://picsum.photos/seed/fungicide/400/400",
+    "parentId": "16"
+  },
+  {
+    "id": "19",
+    "name": "Miticide (for mites)",
+    "slug": "miticide",
+    "image": "https://picsum.photos/seed/miticide/400/400",
+    "parentId": "16"
+  },
+  {
+    "id": "20",
+    "name": "Disinfectant / Bactericide",
+    "slug": "disinfectant-bactericide",
+    "image": "https://picsum.photos/seed/disinfectant/400/400",
+    "parentId": "16"
+  },
+  {
+    "id": "21",
+    "name": "Others",
+    "slug": "others-pesticides",
+    "image": "https://picsum.photos/seed/others-pest/400/400",
+    "parentId": "16"
+  },
+  {
+    "id": "22",
+    "name": "Herbicide / Weedkiller",
+    "slug": "herbicide-weedkiller",
+    "image": "https://picsum.photos/seed/herbicide/400/400",
+    "parentId": "16"
+  },
+  {
+    "id": "23",
+    "name": "Bundle Pack",
+    "slug": "bundle-pack",
+    "image": "https://picsum.photos/seed/bundle/400/400",
+    "parentId": "16"
+  },
+  {
+    "id": "24",
+    "name": "Organic/Bio Insecticide",
+    "slug": "organic-bio-insecticide",
+    "image": "https://picsum.photos/seed/bio/400/400",
+    "parentId": "16"
+  },
+  {
+    "id": "25",
+    "name": "Agricultural Machinery/Tools",
+    "slug": "agricultural-machinery-tools",
+    "image": "https://images.unsplash.com/photo-1674312381246-256e21d3493d?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "parentId": null
+  },
+  {
+    "id": "26",
+    "name": "Power Tiller",
+    "slug": "power-tiller",
+    "image": "https://picsum.photos/seed/tiller/400/400",
+    "parentId": "25"
+  },
+  {
+    "id": "27",
+    "name": "Power Sprayer",
+    "slug": "power-sprayer",
+    "image": "https://picsum.photos/seed/sprayer/400/400",
+    "parentId": "25"
+  },
+  {
+    "id": "28",
+    "name": "Pump",
+    "slug": "pump",
+    "image": "https://picsum.photos/seed/pump/400/400",
+    "parentId": "25"
+  },
+  {
+    "id": "29",
+    "name": "Spray Machine",
+    "slug": "spray-machine",
+    "image": "https://picsum.photos/seed/spray/400/400",
+    "parentId": "25"
+  },
+  {
+    "id": "30",
+    "name": "Sticky Trap",
+    "slug": "sticky-trap",
+    "image": "https://picsum.photos/seed/trap/400/400",
+    "parentId": "25"
+  },
+  {
+    "id": "31",
+    "name": "Accessories",
+    "slug": "accessories",
+    "image": "https://picsum.photos/seed/acc/400/400",
+    "parentId": "25"
+  },
+  {
+    "id": "32",
+    "name": "Brush Cutter",
+    "slug": "brush-cutter",
+    "image": "https://picsum.photos/seed/brush/400/400",
+    "parentId": "25"
+  },
+  {
+    "id": "33",
+    "name": "Harvester / Crop Cutting Machine",
+    "slug": "harvester",
+    "image": "https://picsum.photos/seed/harvester/400/400",
+    "parentId": "25"
+  },
+  {
+    "id": "34",
+    "name": "Seed Sowing Machine",
+    "slug": "seed-sowing-machine",
+    "image": "https://picsum.photos/seed/sowing/400/400",
+    "parentId": "25"
+  },
+  {
+    "id": "35",
+    "name": "Grass Cutter",
+    "slug": "grass-cutter",
+    "image": "https://picsum.photos/seed/grass/400/400",
+    "parentId": "25"
+  },
+  {
+    "id": "36",
+    "name": "Animal/Fish feed",
+    "slug": "animal-fish-feed",
+    "image": "https://plus.unsplash.com/premium_photo-1744279083275-16fda1e17d39?q=80&w=1738&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "parentId": null
+  },
+  {
+    "id": "37",
+    "name": "Fish Feed",
+    "slug": "fish-feed",
+    "image": "https://picsum.photos/seed/fishfeed/400/400",
+    "parentId": "36"
+  },
+  {
+    "id": "38",
+    "name": "Poultry Feed",
+    "slug": "poultry-feed",
+    "image": "https://picsum.photos/seed/poultry/400/400",
+    "parentId": "36"
+  },
+  {
+    "id": "39",
+    "name": "Cattle Feed",
+    "slug": "cattle-feed",
+    "image": "https://picsum.photos/seed/cattle/400/400",
+    "parentId": "36"
+  },
+  {
+    "id": "40",
+    "name": "Wheat",
+    "slug": "wheat",
+    "image": "https://picsum.photos/seed/wheat/400/400",
+    "parentId": "36"
+  },
+  {
+    "id": "41",
+    "name": "Flour",
+    "slug": "flour",
+    "image": "https://picsum.photos/seed/flour/400/400",
+    "parentId": "36"
+  },
+  {
+    "id": "42",
+    "name": "Oil Cake",
+    "slug": "oil-cake",
+    "image": "https://picsum.photos/seed/oilcake/400/400",
+    "parentId": "36"
+  },
+  {
+    "id": "43",
+    "name": "Bran",
+    "slug": "bran",
+    "image": "https://picsum.photos/seed/bran/400/400",
+    "parentId": "36"
+  },
+  {
+    "id": "44",
+    "name": "Broken Rice",
+    "slug": "broken-rice",
+    "image": "https://picsum.photos/seed/brokenrice/400/400",
+    "parentId": "36"
+  },
+  {
+    "id": "45",
+    "name": "Pulses",
+    "slug": "pulses",
+    "image": "https://picsum.photos/seed/pulses/400/400",
+    "parentId": "36"
+  },
+  {
+    "id": "46",
+    "name": "Probiotics",
+    "slug": "probiotics",
+    "image": "https://picsum.photos/seed/probiotics/400/400",
+    "parentId": "36"
+  }
+]

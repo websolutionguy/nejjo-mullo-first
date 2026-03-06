@@ -1,0 +1,38 @@
+[
+  {
+    "id": "inv-1",
+    "investorId": "investor-1",
+    "projectId": "1",
+    "projectName": "Organic Maize Expansion",
+    "amount": 50000,
+    "status": "Active",
+    "expectedReturn": "15%",
+    "payoutDate": "2026-05-15",
+    "date": "2026-01-10",
+    "category": "Crops"
+  },
+  {
+    "id": "inv-2",
+    "investorId": "investor-1",
+    "projectId": "2",
+    "projectName": "Smart Poultry System",
+    "amount": 100000,
+    "status": "Active",
+    "expectedReturn": "18%",
+    "payoutDate": "2026-06-02",
+    "date": "2026-02-15",
+    "category": "Livestock"
+  },
+  {
+    "id": "inv-3",
+    "investorId": "investor-1",
+    "projectId": "3",
+    "projectName": "Sustainable Rice Cultivation",
+    "amount": 30000,
+    "status": "Completed",
+    "expectedReturn": "12%",
+    "payoutDate": "2026-02-01",
+    "date": "2025-08-10",
+    "category": "Crops"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "tx-1",
+    "userId": "investor-1",
+    "type": "Investment",
+    "amount": -50000,
+    "description": "Investment in Organic Maize Expansion",
+    "date": "2026-01-10T10:00:00Z"
+  },
+  {
+    "id": "tx-2",
+    "userId": "investor-1",
+    "type": "Investment",
+    "amount": -100000,
+    "description": "Investment in Smart Poultry System",
+    "date": "2026-02-15T14:30:00Z"
+  },
+  {
+    "id": "tx-3",
+    "userId": "investor-1",
+    "type": "Deposit",
+    "amount": 250000,
+    "description": "Bank Transfer Deposit",
+    "date": "2026-01-01T09:00:00Z"
+  },
+  {
+    "id": "tx-4",
+    "userId": "investor-1",
+    "type": "Payout",
+    "amount": 33600,
+    "description": "Returns from Sustainable Rice Cultivation",
+    "date": "2026-02-01T11:00:00Z"
+  }
+]
